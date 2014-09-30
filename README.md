@@ -1,6 +1,6 @@
 latex
 =====
 
-Latex files for Algorithm
+Latex files for Algorithms course
 
 Please assume these solutions to be incorrect.
